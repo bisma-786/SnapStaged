@@ -1,0 +1,7 @@
+{
+  "name": "SnapStaged - Professional AI Property Staging",
+  "description": "Transform ordinary property photos into professionally staged listings while strictly preserving architectural reality.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
